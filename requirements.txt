@@ -4,3 +4,4 @@ scrapy
 scrapy_splash
 flask_mysqldb
 python-dotenv
+flask_cors
