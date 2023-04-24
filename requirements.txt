@@ -1,0 +1,6 @@
+flask
+pandas
+scrapy
+scrapy_splash
+flask_mysqldb
+python-dotenv
